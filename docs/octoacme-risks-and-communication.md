@@ -62,7 +62,7 @@ Incident Communication
 **Risk Owner** (assigned by Project Manager) develops mitigation:
 - Creates mitigation plan specific to the risk area
 - Coordinates with **Project Manager** on resource needs
-- Engages relevant SMEs (e.g., **DevOps Engineer** for infrastructure risks)
+- Engages relevant Subject Matter Experts (SMEs) (e.g., **DevOps Engineer** for infrastructure risks)
 - Reports progress on mitigation actions
 
 ### Risk Monitoring and Communication
@@ -148,15 +148,15 @@ Incident Communication
 
 ## Communication Best Practices by Role
 
-**Developers**: Focus on technical details, provide clear reproduction steps for issues, document assumptions
+**Developer**: Focus on technical details, provide clear reproduction steps for issues, document assumptions
 
-**Product Managers**: Provide business context, explain priority rationale, maintain clear acceptance criteria
+**Product Manager**: Provide business context, explain priority rationale, maintain clear acceptance criteria
 
-**Project Managers**: Maintain transparency, use data-driven status reports, proactively communicate risks
+**Project Manager**: Maintain transparency, use data-driven status reports, proactively communicate risks
 
-**Release Managers**: Communicate release schedules clearly, provide adequate notice for changes, document decisions
+**Release Manager**: Communicate release schedules clearly, provide adequate notice for changes, document decisions
 
-**DevOps Engineers**: Alert on infrastructure issues early, provide clear incident status, document system changes
+**DevOps Engineer**: Alert on infrastructure issues early, provide clear incident status, document system changes
 
 **QA Lead**: Provide objective quality assessments, document test coverage gaps, escalate quality risks promptly
 

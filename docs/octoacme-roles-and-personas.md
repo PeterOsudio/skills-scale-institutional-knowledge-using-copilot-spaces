@@ -30,7 +30,7 @@ Developers design, build, test, and deliver software components. They collaborat
 - **Product Managers**: Clarifies requirements and acceptance criteria
 - **Project Managers**: Provides estimates and reports on progress
 - **DevOps Engineers**: Collaborates on infrastructure and deployment needs
-- **QA Lead**: Works with on test coverage and bug fixes
+- **QA Lead**: Collaborates on test coverage and bug fixes
 - **UX Designer**: Implements designs and provides implementation feedback
 - **Release Manager**: Coordinates code freeze and release readiness
 
@@ -102,7 +102,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 ## Release Manager
 
 ### Role Summary
-Release Managers coordinate and oversee the release process, ensuring that software is delivered to production safely, on schedule, and with appropriate quality controls. They work closely with Developers, DevOps Engineers, QA Leads, and stakeholders to orchestrate releases.
+Release Managers coordinate and oversee the release process, ensuring that software is delivered to production safely, on schedule, and with appropriate quality controls. They work closely with Developers, DevOps Engineers, QA Lead, and stakeholders to orchestrate releases.
 
 ### Responsibilities
 - Plan and schedule releases in coordination with Product and Project Managers
@@ -182,7 +182,7 @@ DevOps Engineers build, maintain, and improve the infrastructure, deployment pip
 - Ensure security best practices in infrastructure and deployments
 
 ### Goals
-- Achieve high deployment frequency with low failure rates
+- Achieve high deployment frequency with low change failure rates
 - Minimize mean time to recovery (MTTR) for incidents
 - Maintain infrastructure reliability and performance
 - Enable developer productivity through automation

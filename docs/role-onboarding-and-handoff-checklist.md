@@ -214,13 +214,13 @@ Use these checklists during key workflow transitions to ensure smooth handoffs b
 
 **Initial Responder (any role):**
 - [ ] Incident declared and logged
-- [ ] Severity assessed (P0-P4)
+- [ ] Severity assessed (P0=Critical, P1=High, P2=Medium, P3=Low, P4=Minimal)
 - [ ] Incident channel created
 - [ ] Key stakeholders notified
 - [ ] Initial triage and impact assessment completed
-- [ ] SMEs identified and engaged
+- [ ] Subject Matter Experts (SMEs) identified and engaged
 
-**Incident Commander (typically Release Manager or DevOps):**
+**Incident Commander (typically Release Manager or DevOps Engineer):**
 - [ ] Take ownership of incident coordination
 - [ ] Establish communication cadence
 - [ ] Coordinate investigation and mitigation
